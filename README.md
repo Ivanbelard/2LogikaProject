@@ -1,4 +1,4 @@
-<html>
+ <html>
      <title>standoff</title>
     <body>
     <header>
@@ -39,6 +39,6 @@
     </main>
     <footer>
 
-   
+    </footer>
 </body>
 </html>
